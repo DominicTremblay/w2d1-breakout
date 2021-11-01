@@ -4,6 +4,8 @@
 
 1. Clone the following repo:
 
+`git clone git@github.com:DominicTremblay/w2d1-breakout.git`
+
 2. Install the dependencies:
 
   - cd w2d1-breakout

@@ -30,5 +30,7 @@ const pets = [
   //   age: 5,
   // }
 // use node assert to create your assertion. Look up the doc here as needed: (https://nelsonic.gitbooks.io/node-js-by-example/content/core/assert/README.html 
+// Think about testing potential edge cases. What is we provide empty string as the pet name, what if we provide an empty array as the petsArr
+
 
 
